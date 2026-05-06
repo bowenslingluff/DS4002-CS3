@@ -1,4 +1,4 @@
-# CS3-DS4002
+# Case Study - Analyzing Fantasy Football Media
 
 This repository contains the case study, supplemental data, and reference materials necessary to complete the Case Study.
 
